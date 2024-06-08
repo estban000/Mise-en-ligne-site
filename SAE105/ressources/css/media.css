@@ -1,0 +1,36 @@
+/*Partie media*/
+
+.bulle-icone-bordure.rouge {
+    background-color: #A50253;
+}
+
+.bulle-icone.rouge {
+    background-color: #EB0706;
+}
+
+.liste-video {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: start space-around;
+    gap: 2rem;
+  
+  }
+  
+  .video p {
+    margin-bottom: 0.3rem;
+  }
+  
+  .titre-media {
+    width: 50rem;
+    font-size: 2rem;
+  
+  
+  }
+  
+  .titre-vid {
+    top: 10.625rem;
+    font: normal normal normal Open Sans;
+    font-size :  1.063rem ;
+    color: #4F4F4F;
+  }
+

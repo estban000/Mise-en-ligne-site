@@ -1,0 +1,46 @@
+
+.bulle-icone.bleu {
+   background-color: #012A37;
+ }
+
+ .bulle-icone-bordure.gris{
+   background-color: #C9C9C9;
+ }
+
+.liste-principale {
+   display: flex;
+   flex-flow: wrap;
+   margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  row-gap: 2rem;
+   
+}
+
+.conteneur {
+   display: flex;
+   flex-direction: row;
+   column-gap: 1rem;
+ }
+   
+ .row-reverse{ 
+   flex-direction: row-reverse;
+}
+
+.liste-principale .conteneur figure img {
+   top: 46rem;
+   left: 20rem;
+   width: 27rem;
+}
+
+.paragraphe {
+   text-align: left;
+   width: 40.625rem;
+   padding-bottom: 2rem;
+   line-height: 1.5rem;
+}
+
+.police {
+   font-weight: bold;
+}
+
+

@@ -1,0 +1,25 @@
+footer{
+    /*permet d'aligner et de centrer les éléments du contenu footer*/
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.logo-IUT{
+    width: 20%;
+    height:20%;
+}
+.logo-IUT,.socialmedia-IUT{
+    /*crée un espace necessaire entre le div "logo_IUT" et le div "contenu"*/
+    margin: 0.5rem;
+    padding-left: 1em;
+}
+.socialmedia-IUT{
+    border-left: solid grey;
+}
+.socialmedia-IUT .espacement1{
+    line-height: 2em;
+}
+.socialmedia-IUT .espacement2{
+    line-height: 1.5em;
+}

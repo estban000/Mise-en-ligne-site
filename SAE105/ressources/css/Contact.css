@@ -1,0 +1,96 @@
+.banniere-rouge{
+    margin-top: 1rem;
+    background-color: #f8d7da;
+    color: darkred;
+    border-radius: 0.5em;
+    text-align: center;
+    padding-top: 0.8rem;
+    height: 3rem;
+}
+.banniere-verte{
+    margin-top: 1rem;
+    background-color: lightgreen;
+    color: darkgreen;
+    border-radius: 0.5em;
+    text-align: center;
+    padding-top: 0.8rem;
+    height: 3rem;
+}
+
+.paragraphe-Contact {
+    line-height: 1.5em;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+span {
+    font-weight: bold;
+}
+
+.conteneur-formulaire-contact {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-bottom: 2rem;
+}
+
+.conteneur-formulaire-contact .conteneur-input-contact {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+.conteneur-formulaire-contact .conteneur-input-contact .titre-de-formulaire {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.conteneur-formulaire-contact .conteneur-radio-contact {
+    display: flex;
+    flex-direction: row;
+}
+
+.button-contact {
+    background-color: rgb(40, 40, 245);
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    box-shadow:none;
+    border:0 none;
+    outline:0;
+}
+
+.button-contact:hover {
+    background-color: rgb(76, 76, 254);
+}
+
+input[type="text"] {
+    height: 3rem;
+    font-size: 1.2rem;
+}
+
+input[type="email"] {
+    height: 3rem;
+    font-size: 1.2rem;
+}
+
+.section-contact {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.conteuneur-contact-list {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-bottom: 3rem;
+}
+
+.conteuneur-contact-paragraphe {
+    margin-bottom: 0.3rem;
+}

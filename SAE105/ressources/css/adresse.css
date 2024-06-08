@@ -1,0 +1,30 @@
+.bulle-icone-bordure.violet{
+    background-color: #48034e;
+}
+
+.bulle-icone.violet {
+    background-color: #d57ce7;
+}
+
+.conteneur-principal .information-iut{
+    margin-bottom: 2rem;
+}
+.conteneur-principal .information-iut .titre-partie{
+    font-size: 2.25rem;
+    font-weight: bold;
+}
+.conteneur-principal .information-iut .paragraphe-info{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.conteneur-principal .information-iut .paragraphe-info .gras{
+    font-weight: bold;
+}
+.conteneur-principal .information-iut .listes-transports{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.conteneur-principal .information-iut .listes-transports li{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

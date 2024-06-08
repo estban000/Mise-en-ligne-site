@@ -1,0 +1,27 @@
+.liste-articlesMMI{
+    width: 63%;
+}
+.liste-articlesMMI ul li{
+    margin-bottom: 2.5rem;
+    box-shadow: 0 0 0 0.2rem lightgrey;
+}
+.liste-articlesMMI ul li figure img{
+    width:100%
+}
+.liste-articlesMMI .titre{
+    font-size: 2rem;
+    font-weight: bold;
+    /* espacement bloc-texte du titre*/
+    padding-top: 3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.liste-articlesMMI .description{
+    line-height: 1.2em;
+    /* espacement bloc-texte de la description*/
+    padding-top: 1rem;
+    padding-bottom: 3.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
